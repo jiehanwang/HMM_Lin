@@ -11,15 +11,20 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//trainhmm
-// 	Hmm hmm;
+//  	Hmm hmm;
+// 	// 	string ini = "sign-init";
+// 	// 	string traindata = "sign.train";
+// 	// 	hmm.loadProbs(ini);
+// 	// 	const char* output = "sign-result";
+// 	// 	ifstream istrm(traindata);
+// 	// 	int maxIterations = 10;
 // 	if (argc<3) {
-
+// 
 // 		cerr << "USAGE: trainhmm INIT-HMM RESULT-HMM DATA [MAX-ITERATIONS]" << endl;
-
+// 
 // 		exit(1);
-
+// 
 // 	}
-
 // 
 // 	hmm.loadProbs(argv[1]);
 // 	const char* output = argv[2];
